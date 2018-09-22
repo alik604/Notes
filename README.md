@@ -1,4 +1,5 @@
 # notes
+### these notes are posted so claims of me self-teaching data science and machine learning can be verified 
 
 This is the repo for all my notes which I post online 
 
@@ -8,7 +9,7 @@ This is the repo for all my notes which I post online
 
 
 
-### A Saturday of robotics club, data science, or machine learning keeps being a arts major away
-#### no priority enrollment for CMPT is a death sentence (avg grad time for cmpt is 6 years). due to this, im self teaching myself data science, machin learning, and likely a good hand full of stats 
+
+#### since im COGS, I dont have priority enrollment for CMPT. This is basically a death sentence because avg grad time for CMPT is 6 years. Due to this, im self teaching data science, machin learning, and likely a good hand full of stats.  
 
 
