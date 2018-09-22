@@ -3,7 +3,7 @@
 This is the repo for all my notes which I post online 
 
 * [basic data analysis](https://github.com/alik604/Notes/blob/master/notes%20on%20Python%20for%20Data%20Analysis%20by%20Wes%20McKinney.markdown)
-* [machine learning[(https://github.com/alik604/Notes/blob/master/machineLearning-general.markdown)
+* [machine learning](https://github.com/alik604/Notes/blob/master/machineLearning-general.markdown)
 * [linear algebra](https://github.com/alik604/Notes/blob/master/linearAlgebra.md) 
 
 
