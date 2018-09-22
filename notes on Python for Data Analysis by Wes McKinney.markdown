@@ -1,6 +1,3 @@
-### A Saturday of robotics club, data science, or machine learning keeps being a arts major away
-#### no priority enrollment for CMPT is a death sentence (avg grad time for cmpt is 6 years)  
-
 ### chpt 1: why python
 "Part of Python’s success in scientific computing is the ease of integrating C, C++, and
 FORTRAN code. Most modern computing environments share a similar set of legacy
