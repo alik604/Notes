@@ -9,7 +9,7 @@
 Any random variable whose only possible values are 0 and 1 is called a
 Bernoulli random variable. 
 
-
+assuming independence and constant probabilities 
 
 
 
@@ -104,7 +104,6 @@ The three conditions underlying the binomial distribution are:
 $$
 P(x) = \dfrac {n!} {x!(n- x)!} \ p^ x(1-p)^{(n-x)}
 \\ for\  n > 0; x=0, 1, 2, n; \ and \ 0<p<1
-
 $$
 
 
@@ -300,7 +299,7 @@ Rayleigh distributions, among others. The Weibull distribution is very flexible.
 
 
 
-  
+
 
 ### Cumulative distribution function
 
